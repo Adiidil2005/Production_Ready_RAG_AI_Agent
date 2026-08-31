@@ -1,0 +1,27 @@
+[project]
+name = "rag-proj"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Adiidil2005", email = "adityadileep@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.141.1",
+    "inngest>=0.5.19",
+    "llama-index-core>=0.14.24",
+    "llama-index-readers-file>=0.6.0",
+    "openai>=3.3.1",
+    "python-dotenv>=1.2.3",
+    "qdrant-client>=1.19.0",
+    "streamlit>=1.62.0",
+    "uvicorn>=0.52.4",
+]
+
+[project.scripts]
+rag-proj = "rag_proj:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

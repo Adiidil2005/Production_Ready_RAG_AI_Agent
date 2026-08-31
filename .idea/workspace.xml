@@ -1,34 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0f0c0b-ba35-4b78-8e00-c75dbdab169a" name="Changes" comment="" />
+    <list default="true" id="df0f0c0b-ba35-4b78-8e00-c75dbdab169a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rag-proj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rag-proj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/custom_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vector_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/vector_db.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Adiidil2005"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Adiidil2005/Production_Ready_RAG_AI_Agent.git",
+    "accountId": "8275ba23-702d-4042-8701-1b17037b414b"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.015625" />
+      <entry key="MS500" value="1.435275281648062" />
+      <entry key="S2" value="1.8124974198474197" />
+      <entry key="S5" value="2.032745067619192" />
+      <entry key="S10" value="3.089484694496304" />
+      <entry key="S30" value="10.449486999232745" />
+      <entry key="S60" value="18.62152673851645" />
+      <entry key="M2" value="27.581263751857747" />
+      <entry key="M5" value="50.307634272966" />
+      <entry key="M10" value="90.24135928391716" />
+      <entry key="M15" value="126.7553631436141" />
+      <entry key="M30" value="224.30031679800098" />
+      <entry key="H1" value="372.98015750968307" />
+      <entry key="H2" value="536.7537151409331" />
+      <entry key="H4" value="668.6695638065133" />
+      <entry key="D1" value="821.2761302526836" />
+      <entry key="W1" value="852.6075838633104" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.4184853199822805E-82" />
+      <entry key="S2" value="3.943536491288496E-21" />
+      <entry key="S5" value="6.89214404476888E-9" />
+      <entry key="S10" value="8.3018937868229E-5" />
+      <entry key="S30" value="0.04362402406546145" />
+      <entry key="S60" value="0.20886379512588954" />
+      <entry key="M2" value="0.4580525201732932" />
+      <entry key="M5" value="1.06541046966158" />
+      <entry key="M10" value="4.087666769880405" />
+      <entry key="M15" value="8.882128428861874" />
+      <entry key="M30" value="24.665738608436726" />
+      <entry key="H1" value="48.10265285766722" />
+      <entry key="H2" value="73.25364084169483" />
+      <entry key="H4" value="93.97356789382263" />
+      <entry key="D1" value="118.85267070985766" />
+      <entry key="W1" value="124.09338495888308" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.02876400648833927" />
+      <entry key="MS500" value="0.8557234892749194" />
+      <entry key="S2" value="1.617740347134319" />
+      <entry key="S5" value="1.9492273071406765" />
+      <entry key="S10" value="3.0443112488467685" />
+      <entry key="S30" value="10.469577323552405" />
+      <entry key="S60" value="18.808477653045635" />
+      <entry key="M2" value="28.006574588784797" />
+      <entry key="M5" value="51.31111564932659" />
+      <entry key="M10" value="94.24699808512794" />
+      <entry key="M15" value="135.54895002216153" />
+      <entry key="M30" value="248.8779153655994" />
+      <entry key="H1" value="421.00980087064056" />
+      <entry key="H2" value="609.9563973100769" />
+      <entry key="H4" value="762.6119924075467" />
+      <entry key="D1" value="940.1225198639847" />
+      <entry key="W1" value="976.7000393309469" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IDuMfdXCB6ugzVYGooWP5DrDFz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rag-proj" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,10 +174,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1787311413637</updated>
+      <workItem from="1787347591689" duration="3000" />
+      <workItem from="1787347873028" duration="4295000" />
+      <workItem from="1787354324327" duration="1135000" />
+      <workItem from="1787355514456" duration="1456000" />
+      <workItem from="1787417383117" duration="7515000" />
+      <workItem from="1787488929017" duration="1086000" />
+      <workItem from="1787547946089" duration="4545000" />
+      <workItem from="1788193303285" duration="1390000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
